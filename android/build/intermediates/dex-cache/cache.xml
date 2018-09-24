@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/stellent/Documents/Charts/node_modules/react-native-svg/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="539067f829fef06cb8ed0f8520397cae6ebf7bc8">
+        <dex dex="/Users/stellent/Documents/Charts/android/app/build/intermediates/pre-dexed/release/classes_3e0606b47afc7991c3f6ccb5ae71926a41b1acfd.jar" />
+    </item>
+
+</items>
